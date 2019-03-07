@@ -1,4 +1,6 @@
-# Miiyoo Hush JS Demo
+# Miiyoo JS Demo
+
+**DEPRECATED** - Work now happening at [buttplug.io](https://buttplug.io)
 
 Quick demo of Kiiroo control using WebBluetooth on Chrome.
 Requires Chrome 56 with Experimental Web Extensions turned on. Only
